@@ -7,7 +7,7 @@
 <p align="center">
   <b><span style="font-size: 20px;">Backend × Full-Stack × AI</span></b>  
   <br/>
-  Turning ideas into code • Focused on security, scalability, and human-centered design
+  Engineering secure and scalable solutions for real-world challenges
 </p>
 
 ---
