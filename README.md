@@ -1,22 +1,11 @@
 <!-- Profile Header -->
-<h1 align="center">Hi, I'm Nana Oppong Ampofo 👋</h1>
-<p align="center">
-  <b>CS @ Grambling State (4.0 GPA) • ColorStack Fellow • Secure Backend × AI × Full-Stack</b><br/>
-  Building human-centered software with reliable systems, clean APIs, and thoughtful UX.
-</p>
-
-<p align="center">
-  <a href="mailto:your.email@domain.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&color=0D96F6"></a>
-  <a href="https://github.com/YOUR_USERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@YOUR_USERNAME-181717?style=flat&logo=github"></a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin"></a>
-</p>
+<h1 align="center">Building Smart, Secure, Human-Centered Software.</h1>
+<p align="center">I'm Nana Oppong Ampofo</p>
 
 ---
 
 ### 🧭 About
-- 🇬🇭 → 🇺🇸  Builder with a global perspective; I care about **access, usability, and real-world impact**.  
-- I enjoy shipping **secure backends**, **AI-powered features**, and **responsive UIs**—then measuring with **observability**.  
-- Outside code: **soccer**, **modeling**, and reading about **human behavior** (great fuel for product ideas).
+Turning ideas into code • Backend × AI × Full-Stack  
 
 ---
 
@@ -66,65 +55,3 @@
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-
----
-
-## 🚀 Featured Projects
-
-**CodeStroke – Mobile Stroke Consultation Platform**  
-_Django • React Native • PostgreSQL • scikit-learn • Socket.io • Docker_  
-Real-time triage with severity scoring and prioritized alerts; reduced **simulated** treatment delay by ~**40%**.  
-🔗 Repo: `https://github.com/YOUR_USERNAME/codestroke` (update link)
-
-**QuickCalendar – Chrome Extension**  
-_JavaScript (ES6) • GPT-4 Vision API • Chrome Storage_  
-Extracts events from images/text and creates one-click calendar entries across Google/Apple/Outlook.  
-🔗 Repo: `https://github.com/YOUR_USERNAME/quickcalendar`
-
-**OptiFitAI – AI-Powered Fitness Platform** _(WIP)_  
-_PyTorch • FastAPI • PostgreSQL • React • Tailwind • Chart.js_  
-Adaptive meal/workout plans, progress analytics, and role-based access with JWT.  
-🔗 Repo: `https://github.com/YOUR_USERNAME/optifitai`
-
-**Aboakyer Online – Festival Website**  
-_HTML • CSS • JavaScript • WebSockets_  
-Global visitors from **20+ countries**; live media streaming and social integrations boosted engagement.  
-🔗 Repo: `https://github.com/YOUR_USERNAME/aboakyer-online`
-
----
-
-## 💼 Experience
-
-**HeadStarter AI — Software Engineer Fellow**  
-- Shipped AI projects with a team; implemented a **GitHub Actions CI/CD** pipeline → ~**50%** faster integration/collaboration.
-
-**Soluotech — Software Engineering Intern (Accra, Ghana)**  
-- Built a **Flask** password manager (AES-256, PBKDF2, JWT).  
-- Deployed on **AWS EC2** with **Docker + Nginx + Gunicorn**; encrypted backups via **S3** and **IAM/Secrets Manager**.  
-- Hardened **REST APIs** with validation, rate limiting, and audit logging.
-
-**Undergraduate AI Researcher — Grambling State University**  
-- Investigated **algorithmic bias** in NLP across 5,000+ multilingual datapoints using regression & classification; **90%** evaluation precision.  
-- Designed fairness audit protocols aligned to **IEEE/NIST** standards.
-
----
-
-## 🎓 Education & Honors
-**B.S. Computer Science — Grambling State University (GPA: 4.0)**  
-**Honors:** President’s List • Alpha Lambda Delta Honors College
-
----
-
-## 🌙 Beyond Code
-- Soccer tactician ⚽ • Modeling 🎯 • Human-behavior reader 📚  
-- “I’m a gym bro — but not quite a gym rat (big difference, lol).”  
-- I like turning everyday moments (and gym reps) into product ideas.
-
----
-
-<!-- Optional GitHub Stats (uncomment & update username)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default" height="150" />
-</p>
--->
