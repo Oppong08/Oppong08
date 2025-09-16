@@ -3,9 +3,11 @@
 
 ---
 
-### 🧭 About
+## 🧭 About
 <p align="center">
-  Turning ideas into code • Backend × AI × Full-Stack
+  <b><span style="font-size: 20px;">Backend × Full-Stack × AI</span></b>  
+  <br/>
+  Turning ideas into code • Focused on security, scalability, and human-centered design
 </p>
 
 ---
