@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">💻 <b>Nana Oppong Ampofo</b> — Building Smart, Secure, Human-Centered Software</h1>
+<h1 align="center">💻 <b>Nana Oppong Ampofo</b></h1>
 
 ---
 
