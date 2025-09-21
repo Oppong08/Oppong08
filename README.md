@@ -7,7 +7,7 @@
 <p align="center">
   <b><span style="font-size: 20px;">Backend × Full-Stack × AI</span></b>  
   <br/>
-  Engineering secure and scalable solutions for real-world challenges
+  Turning ideas into code
 </p>
 
 ---
