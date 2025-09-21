@@ -7,7 +7,7 @@
 <p align="center">
   <b><span style="font-size: 20px;">Backend × Full-Stack × AI</span></b>  
   <br/>
-  <em>Turning ideas into code...</em>
+  <em>Transforming ideas into code...</em>
 </p>
 
 ---
